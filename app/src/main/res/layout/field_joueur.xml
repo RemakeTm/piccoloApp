@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FieldJoueur1"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:layout_marginLeft="50dp"
+    android:layout_marginTop="25dp"
+    android:fontFamily="@font/sylfaen"
+    android:inputType="text"
+    android:text="Joueur 1:)"
+    android:textSize="20dp"/>
+

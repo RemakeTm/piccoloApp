@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <ListeQuestion>
+       <Question>
+
+           <phrase>Tout le monde boit 2 gorgées et enlève un vêtement !</phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, enlève 3 vêtements et finis ton verre...</phrase>
+           <Type>1</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La dernière personne à avoir eu une relation sexuelle enlève un vêtement</phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La personne à qui on a le plus enlevé de vêtement enlève un vêtement à la personne de son choix et distribue 4 gorgées. Être à poil ça paye. </phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% on t'aime, mais on t'aime encore plus à poil. Enlève un vêtement.</phrase>
+           <Type>1</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La personne qui héberge la soirée enlève un vêtement à la personne de son choix.</phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La personne qui héberge la soirée enlève un vêtement.</phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>L'ainé(e) de la soirée enlève un vêtement à la personne de son choix.</phrase>
+           <Type>1</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% enlève un vêtement à % ou boit 3 gorgées</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, choisis qui devra enlever un vêtement. 3 gorgées en cas de refus</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les mecs, enlevez un vêtement ou buvez 3 gorgées</phrase>
+           <Type>2</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les filles, enlevez un vêtement ou buvez 3 gorgées</phrase>
+           <Type>2</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les mecs, mettez vous torse nu ou buvez 4 gorgées</phrase>
+           <Type>2</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les filles, mettez vous en soutif ou buvez 4 gorgées</phrase>
+           <Type>2</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, va enlever tes sous-vêtements et reviens. Ou échappe toi et finis ton verre</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>À tour de rôle, choisissez quelqu'un qui devra enlever un vêtement. Si il ou elle refuse, 2 gorgées pour sa pomme. % commence</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, donne l'âge de tout les joueurs. Distribue 5 gorgées en cas de succès, sinon enlève un vêtement.</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% distribue 2 gorgées ou bien finis ton verre et tout le monde enlève 1 vêtement.</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% finit ton verre ou met toi à poil (Caleçon pour les hommes, culottes et soutif pour les femmes).</phrase>
+           <Type>2</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt pectoraux (seins pour les mecs) ou abdos (fesses pour les mecs) ? Votez tous en même temps, les perdants prennent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Vous avez le droit à 5 minutes de sexe avant de mourir, avec n'importe qui n'importe où. % et % proposent un choix, les autres votent pour le meilleur ! Le gagnant distribue 3 gorgées, l'autre les boit</phrase>
+           <Type>3</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les seins, plutôt beaucoup trop gros ou beaucoup trop petits ? Votez tous en même temps, les minoritaires boivent 3 gorgées !</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt avoir une relation parfaite et sexuellement pauvre ou une relation pourrie et sexuellement incroyable ? Votez tous en même temps, les minoritaires boivent 3 gorgées !</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt embrasser son ou sa voisine de droite ou de gauche ? Votez tous en même temps, les minoritaires boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt baiser avec son ou sa voisine de droite ou de gauche ? Votez tous en même temps, les minoritaires boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Tu préfères que, lors de l'acte sexuel, la fille soit au-dessus ou en dessous ? Votez en même temps, les perdants prennent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt coucher avec quelqu'un à cette table, ou une personne inconnue aléatoire chaque jour pendant une semaine ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les rapports sexuels, plutôt un peu trop violents ou un peu trop calmes ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt coucher avec qui tu veux quand tu veux, où avoir le plat que tu veux quand tu veux et sans grossir ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Pour t'exciter, plutôt costume classe ou déguisement sexy ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt position Levrette ou position Andromaque ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt plus ou moins de 25 minutes pour un rapport sexuel comprenant préliminaires, pénétration et orgasme ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt faire l'amour le soir ou le matin ? Votez en même temps, les perdants boivent 3 gorgées</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt casser son lit pendant les ébats ou se faire surprendre pendant l'acte ? Votez tous en même temps et les perdants boivent 3 gorgées.</phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Plutôt être filmé, par un cameraman, en train de baiser, ou filmer d'autres personnesen train de baiser ? Votez tous en même temps les minoritaires boivent 3 gorgées. </phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Dire "Je t'aime" pendant l'acte, pour ou contre ? Votes tous en même temps les minoritaires boivent 3 gorgées. </phrase>
+           <Type>3</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% travaille à la BAC ! Tu peux faire une fouille au corps de n'importe qui quand tu le souhaites, la personne fouillée peut refuser pour 3 gorgées</phrase>
+           <phrase>% n'est plus dans la BAC et cette ignoble personne cochonne va prendre 4 gorgées</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% est Cupidon ! Il / elle choisit qui s'embrasse et qui se caline quand il / elle le souhaite, 3 gorgées sinon</phrase>
+           <phrase>% n'est plus cupidon</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% est irrésistible ! Chaque fois que tu demandes un bisou (sur la bouche ou ailleurs), l'élu(e) doit s'exécuter ou boire</phrase>
+           <phrase>% est de nouveau moche</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, choisis à n'importe quel moment 2 joueurs, l'un se mettra sur les genoux de l'autre. 2 gorgées pour tous les refus</phrase>
+           <phrase>%, tu ne peux plus choisir qui s'assoit sur qui</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, t'as les mains empoisonnées ! Si tu arrives à faire une caresse à un joueur sans qu'il s'en aperçoive avant la fin du virus, ce joueur finira son verre !</phrase>
+           <phrase>%, tu n'as plus ta caresse empoisonnée ! Si tu n'as pas réussi, bois 5 gorgées</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+
+       <Question>
+
+           <phrase>Il est maintenant possible de rejouer ses gorgées au jeu de la bouteille ! Au lieu de boire, faites tourner la bouteille et embrassez le joueur désigné, si vous refusez vous buvez double !</phrase>
+           <phrase>Le jeu de la bouteille est maintenant terminé !</phrase>
+           <Type>4</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>A partir de maintenant, à chaque fois que quelqu'un prononce un gros mot il enlève un vêtement ou boit 4 gorgées !</phrase>
+           <phrase>Vous pouvez de nouveau jurer sans craindre de perdre un vêtement</phrase>
+           <Type>4</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Nouvelle règle : Si vous croisez le regard d'un autre joueur en vous suçant le doigt, celui-ci boit</phrase>
+           <phrase>Arrêtez de vous faire des gestes coquins les uns les autres</phrase>
+           <Type>4</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% tu es l'humoriste ! Quand tu le souhaites, appelle une personne à cette table et dit lui une seule et unique phrase, si elle rigole elle boit 3 gorgées.</phrase>
+           <phrase>% t'étais pas drôle en fait, bois 4 gorgées.</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% tu es maintenant le pervers alcoolique ! Désormais, à chaque fois que tu boiras tu devras enlever un vêtement à la personne de ton choix.</phrase>
+           <phrase>% n'est plus le pervers, enlève 2 vêtement et retiens la leçon.</phrase>
+           <Type>4</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Nouvelle règle : Toutes les questions comportant "ou bois x gorgées" deviennent "et bois x gorgées". C'est parce que vous avez très soif.</phrase>
+           <phrase>Plus personne n'a soif et avez de nouveau le choix entre action et boire. </phrase>
+           <Type>4</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% et %, faîtes un shifoumi en 1 manche, le gagnant distribue 3 et l'autre les boit.</phrase>
+           <Type>5</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% et %, jouez à pile ou face, le gagnant distribue 3 et le perdant les boit.</phrase>
+           <Type>5</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, de combien de verres aurais-tu besoin pour coucher avec % ? Réponds et bois 2 gorgées</phrase>
+           <Type>6</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, regarde dans les yeux la personne avec qui tu pourrais coucher ce soir, cette personne boira 3 gorgées</phrase>
+           <Type>6</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 2 gorgées si tu aimes les fessés</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu as déjà fantasmé sur %, bois 4 gorgées. Sinon distribue-les</phrase>
+           <Type>6</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu as déjà vu les sous-vêtements de %, distribue 4 gorgées. Sinon bois-les</phrase>
+           <Type>6</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu as déjà vu % torse nu ou en soutif, distribue 4 gorgées. Sinon bois-les</phrase>
+           <Type>6</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, accepterez tu de coucher avec quelqu'un de sexe opposé à cet table contre 500 euros ? Si oui, bois 4 gorgées, sinon distribue les.</phrase>
+           <Type>6</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Celles et ceux qui ont déjà fait un rêve érotique avec quelqu'un à cette table boivent 4 gorgées.</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Ceux/Celles ayant déjà été surpris en train de se masturber boivent 4 gorgées</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Ceux/Celles qui aimeraient coucher avec une personne présente dans la pièce boivent 4 gorgées</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Celles et ceux qui ont déjà fantasmé sur un ou une camarade de classe boivent 4 gorgées.</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+
+       <Question>
+
+           <phrase>Celles et ceux qui ont déjà fantasmé sur un ou une prof boivent 4 gorgées.</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Buvez le nombre d'orgasmes que vous avez eu cette semaine, en nombre de gorgées. La branlette compte.</phrase>
+           <Type>6</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% et % se font un câlin, et boivent tous deux une gorgée</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Si % et % s'embrassent sur la bouche, chacun distribue 3 gorgées, autrement tout le monde boit 2 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, fais un bisou sur le nez de % ou bois 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% choisit deux personnes qui vont s'embrasser ou boire 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, embrasse % ou bois 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, embrasse le torse d'un joueur ou bois 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, fais toi embrasser la poitrine / le torse par un joueur au choix. 4 gorgées en cas de refus</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, caresse les fesses d'un joueur pendant 5 secondes, 4 gorgées si il ou elle refuse !</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, choisis deux joueurs qui devront mimer une position sexuelle et boire en même temps 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, fais un suçon à la personne que tu veux ou bois 3 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, fais un bisou dans le cou de la personne de ton choix ou bois 4 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, finis ton verre et va mordiller/léchouiller l'oreille de la personne qui t'attire le plus</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, finis ton verre et va embrasser la personne de ton choix (sur les lèvres)</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% fait un bisou (sur la bouche) à chaque joueur et finit le verre qui lui plait !</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, choisis une personne avec qui tu vas jouer. Vous allez boire une gorgée puis vous embrasser. Jusqu'à ce que les deux aient fini leurs verres...</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, choisis deux joueurs qui vont finir leur verre puis s'embrasser (sur lèvres)</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Concours de caleçon ! Les filles sont le jury, le perdant prend 5 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Concours de soutif ! Les mecs sont le jury, la perdante prend 5 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Kiss party ! À tour de rôle embrassez votre voisin ou voisine de gauche ou buvez 3 gorgées, % commence</phrase>
+           <Type>7</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Concours de fesses : les mecs, défilez ! Les filles vous êtes le jury, le gagnant peut distribuer 5 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Concours de fesses : les filles, défilez ! Les mecs vous êtes le jury, la gagnante peut distribuer 5 gorgées</phrase>
+           <Type>7</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, lèche une partie du corps (celle que tu souhaites), du joueur que % choisit</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% fais un baise-main à %, 4 gorgées en cas de refus.</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% met une belle fessée à %, on sait tous qu'il / elle aime ça. Bois 3 gorgées en cas de refus.</phrase>
+           <Type>7</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, pince les fesses d'un joueur au choix. 3 gorgées en cas de refus</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Tout le monde prend 3 gorgées. Sauf %, qui va faire un bisou (sur les lèvres) à tout le monde</phrase>
+           <Type>7</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les personnes en chemise la déboutonnent et prennent une gorgée par bouton</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% et %, lisez le premier SMS qui s'affiche quand on tape "sexe" dans la barre de recherche. Refusez pour 5 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% et %, lisez le premier SMS qui s'affiche quand on tape "bite" dans la barre de recherche. Refusez pour 5 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Concours d'odeur de cheveux ! Les filles jouent, les mecs vous êtes le jury. La gagnante peut distribuer 5 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les personnes qui pensent que % est un bon coup au lit boivent 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Les personnes qui n'ont jamais baisé dans une voiture boivent 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Celles et ceux qui ont déjà envoyé des photos érotiques boivent 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu as déjà été secrètement amoureux de % tu bois 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La dernière personne à être allée sur un site de cul distribue 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+       <Question>
+
+           <phrase>Bois 4 gorgées si tu veux baiser là maintenant tout de suite</phrase>
+           <Type>8</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Celles qui ne savent pas faire le twerk boivent 4 gorgées !</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 4 gorgées si tu préfères les préliminaires à la pénétration</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 5 gorgées si tu n'as pas de sous-vêtements</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, distribue 2 gorgées si tu te trouves attirant(e). Si t'es moche, bois-les</phrase>
+           <Type>8</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 3 gorgées si tu penses que tu pourrais faire jouir la personne à ta droite en moins de 10 minutes</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 3 gorgées si tu t'es déjà fait(e) dragué(e) par une personne du même sexe</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 3 gorgées si t'aimes bien qu'on te mordille les tétons</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Bois 3 gorgées si plusieurs joueurs à cette table t'attirent physiquement</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu n'as jamais fantasmé sur %, bois 4 gorgées. Sinon distribue-les</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si tu as pensé à bien te laver le sexe ce matin, bois 4 gorgées. Sinon distribue-les</phrase>
+           <Type>8</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, si % a déjà vu tes sous-vêtements, distribue 4 gorgées. Sinon bois-les</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui est le joueur qui s'est le plus masturbé cette semaine selon toi ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui est le joueur le plus fidèle selon toi ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui aimerait le plus coucher avec % selon toi ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui serait le plus susceptible d'espionner quelqu'un pour mieux le séduire ensuite ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui attache le plus d'importance aux fesses selon toi ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, à toi de juger : entre % et %, qui attache plus d'importance aux pectoraux / seins selon toi ? Cette personne boira 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>3</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La personne qui a le moins dormi cette nuit distribue autant de gorgées que d'heures dormies</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% raconte ton dernier rêve dans lequel figure %, bois 5 gorgées en cas de refus ou d'amnésie.</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% donne la date de naissance de %. Bois 4 gorgées en cas d'oublie, sinon distribue les.</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% donne le nombre de conquête de %. Bois 3 en cas d'échec, sinon distribue les.</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% à ton avis, combien de musique a % sur son portable (à plus ou moins 10) ? Bois 4 gorgées en cas d'échec, distibue les si tu réussi et distribu un cul sec si tu trouve le nombre exact (0 exclus)</phrase>
+           <Type>8</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Celles et ceux qui ont pris plusieurs rateaux par la même personne boivent 4 gorgées</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% récite les études / métiers de chacun des joueurs, c'est tes potes quand même. Bois 4 gorgées en cas d'échec.</phrase>
+           <Type>8</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Chaque joueur distribue 2 gorgées pour chaque semaine passée depuis la dernière branlette.</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Chaque joueur boit 2 gorgées pour chaque vêtement qu'il a enlevé.</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La personne à qui on a le plus enlevé de vêtement bois 5 gorgées. Espèce d'exhibitionniste. </phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>L'ainé(e) de la soirée bois 5 gorgées.</phrase>
+           <Type>8</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>% raconte nous une anecdote les autres devront deviner si elle est vraie ou fausse. Ceux qui se trompent boivent 2 gorgées, les autres les distribuent.</phrase>
+           <Type>8</Type>
+		   <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>%, pense à une position sexuelle. Tous les joueurs vont à tour de rôle en donner une, le premier à deviner distribue 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>2</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Ce qui vous excite chez votre partenaire", la personne qui répète ou qui ne trouve pas boit 3 gorgées ! % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les choses qu'il faut faire avant de partir en soirée quand on est célibataire", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les préliminaires", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les excuses pour ne pas rester dormir après un coup d'un soir", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les goûts de préservatif", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les endroits à mordiller pour exciter son ou sa partenaire", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>"Les parties du corps qu'il est agréable de lécher pendant un rapport sexuel", le joueur qui répète ou ne trouve pas boit 3 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Quel est votre position sexuelle préférée ? Chacun répond, ceux qui ont des positions en commun boivent 4 gorgées ensemble</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>À tour de rôle, buvez 3 gorgées et dites avec qui vous préféreriez coucher dans cette pièce.</phrase>
+           <phrase>%, si tu as été cité(e), va embrasser la personne qui t'a mentionné(e). Bois 3 gorgées sinon</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>À tour de rôle, allez embrasser une personne. Ceux qui refusent boivent 4 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>La question piège ! À tour de rôle, posez une question coquine à n'importe qui. Si la personne interrogée ne veut pas répondre, elle prendra 5 gorgées. % commence</phrase>
+           <Type>9</Type>
+           <Nombre>1</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Tout le monde semble un peu trop sobre, finissez tous votre verre !</phrase>
+           <Type>10</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+       <Question>
+
+           <phrase>Je sens que tout le monde a un peu chaud, mettez vous toutes et tous en sous vêtement !</phrase>
+           <Type>10</Type>
+           <Nombre>0</Nombre>
+
+       </Question>
+
+   </ListeQuestion>
+</resources>
