@@ -3,24 +3,20 @@ package com.example.picolotest;
 
 public class Joueur {
 
-	// Enumération pour le sexe (disponible dans tout le programme)
-	enum sexe {
+	enum Sexe {
 		HOMME, FEMME;
 	}
 
 	private String nom;
-	private sexe sexeJ;
+	private Sexe sexe;
 	private int nbNomin = 0;
 
-	// sexe est donc une instance de l'�num�ration qui est accessible dans les
-	// autres classes: Joueur.sexe(.HOMME/FEMME)
-	// Constructeur
-	public Joueur(String nom, sexe sexeJ) {
+
+	public Joueur(String nom, Sexe sexe) {
 		this.nom = nom;
-		this.sexeJ = sexeJ;
+		this.sexe = sexe;
 	}
 
-	// Methodes en lien avec l'attribut nom
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
@@ -29,7 +25,6 @@ public class Joueur {
 		return nom;
 	}
 
-	// Methodes en lien avec l'attribut nbNomin
 	public void addNbNomin() {
 		nbNomin++;
 	}
@@ -38,13 +33,7 @@ public class Joueur {
 		return nbNomin;
 	}
 
-	// Methodes en lien avec l'attribut énuméré sexe
-	// Conversion directe en string pour éviter les erreurs plus tard dans le code
 	public String getSexe() {
-		if (sexeJ == sexe.FEMME)
-			return "femme";
-		else
-			return "homme";
+		return this.sexe.name();
 	}
-
 }

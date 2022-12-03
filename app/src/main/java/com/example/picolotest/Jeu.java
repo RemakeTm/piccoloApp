@@ -121,17 +121,10 @@ public class Jeu {
 		// Les questions sont déjà assemblées (avec les joueurs etc)
 
 		if (this.nbCurrentQuestion < this.nbQuestionCycle) {
-
 			Question currentQ = this.questionCycle[this.nbCurrentQuestion];
-
-			/*if (currentQ instanceof Virus) {
-				System.out.println("VIRUS!");
-			}*/
-
 			this.nbCurrentQuestion++;
 		} else {
 			// Affichage Checkpoint //
-
 			this.nbCurrentQuestion = 0;
 		}
 
@@ -154,9 +147,9 @@ public class Jeu {
 		for (int i = 0; i < tabString.length; i++) {
 			Joueur newJoueur;
 			if (tabString[i][1].equals("1")) {
-				newJoueur = new Joueur(tabString[i][0], Joueur.sexe.HOMME);
+				newJoueur = new Joueur(tabString[i][0], Joueur.Sexe.HOMME);
 			} else {
-				newJoueur = new Joueur(tabString[i][0], Joueur.sexe.FEMME);
+				newJoueur = new Joueur(tabString[i][0], Joueur.Sexe.FEMME);
 			}
 			addJoueur(newJoueur);
 		}

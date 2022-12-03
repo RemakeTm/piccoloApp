@@ -13,8 +13,6 @@ public class Question {
 	private String finalTxt;
 	private Jeu jeu;
 	private int type;
-	// private boolean isSEXED;//faudra en parler au gars (en attendant je fais
-	// sans)
 
 	public Question(String Txt, int nbJoueur, Jeu jeu, int type) {
 		// Le tableau doit étre alloué en fonction du nombre de part de la question, les
@@ -52,9 +50,7 @@ public class Question {
 		finalTxt =tabTxt;
 		while(finalTxt.contains("%")){
 			finalTxt=finalTxt.replaceFirst("%",randomPlayer().getNom());
-
 		}
-
 	}
 
 	public boolean isAlreadyPicked(Joueur joueur, Joueur[] tabJ) {

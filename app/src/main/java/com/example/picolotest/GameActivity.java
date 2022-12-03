@@ -34,12 +34,8 @@ public class GameActivity extends AppCompatActivity {
         setContentView(R.layout.question);
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
 
-        // Initialisation des variables
-
-
         View layoutQuestion = (View) getLayoutInflater().inflate(R.layout.layout_joueur, null, false);
         View layoutCheckpoint = (View) getLayoutInflater().inflate(R.layout.checkpoint, null, false);
-
 
         this.typeQuestion = findViewById(R.id.TypeQuestion);
         this.texteQuestion = findViewById(R.id.TexteQuestion);
@@ -47,9 +43,7 @@ public class GameActivity extends AppCompatActivity {
         this.iconeQuestion = findViewById(R.id.IconeQuestion);
         this.layoutQuestion = (ConstraintLayout) findViewById(R.id.layout_question);
 
-
         this.jeu = new Jeu();
-
 
         // Création de la liste des joueurs //
 
@@ -57,9 +51,6 @@ public class GameActivity extends AppCompatActivity {
         int nbJoueur = intent.getIntExtra("nbJoueur", 3);
         String[][] tabInfosJoueurs = new String[nbJoueur][2];
         this.face = Typeface.createFromAsset(getAssets(),"fonts/subwaynoir.ttf");
-
-        System.out.println("Y'A " + nbJoueur + " JOUEURS MEC");
-
 
         for (int cmp = 0 ; cmp < tabInfosJoueurs.length ; cmp++) {
             tabInfosJoueurs[cmp][0] = intent.getStringExtra("nomJoueur" + cmp);
@@ -71,9 +62,6 @@ public class GameActivity extends AppCompatActivity {
         }
 
         jeu.createTabJoueur(tabInfosJoueurs);
-
-        System.out.println("ON A LES JOUEURS C PASIMOCHE");
-
 
         // Création de la liste des questions //
 
