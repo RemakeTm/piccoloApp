@@ -25,7 +25,7 @@ public class Joueur {
 		return nom;
 	}
 
-	public void addNbNomin() {
+	public void nominate() {
 		nbNomin++;
 	}
 
