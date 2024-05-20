@@ -53,31 +53,6 @@ public class Jeu {
 			// Affichage Checkpoint //
 			this.indexCurrQuestion = 0; //aucune idée de ce que ça fout là
 		}
-
 	}
 
-	public static boolean intInTab(int[] tab, int nb, int size) {
-		for (int i = 0; i < size; i++) {
-			if (tab[i] == nb)
-				return true;
-		}
-		return false;
-	}
-
-	public void createQuestCycle() {
-		Random rnd = new Random();
-		int newRnd;
-		int i = 0;
-		int taille = this.questionCycle.length;
-		//Tableau pour éviter d'avoir deux fois la même question dans le cycle
-		int[] tabTampon = new int[taille];
-		while (i < taille) {
-			newRnd = rnd.nextInt(nbQuestionTotal);
-			if (!intInTab(tabTampon, newRnd, i)) {
-				addQuestionCycle(this.questionTotal[newRnd]);
-				tabTampon[i] = newRnd;
-				i++;
-			}
-		}
-	}
 }

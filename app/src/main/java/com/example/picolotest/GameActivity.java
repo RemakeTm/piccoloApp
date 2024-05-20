@@ -10,22 +10,17 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.content.Intent;
 
-import org.w3c.dom.Text;
+import java.io.FileNotFoundException;
 
 
 public class GameActivity extends AppCompatActivity {
 
     private Jeu jeu;
-
     private TextView typeQuestion;
     private TextView texteQuestion;
     private TextView numQuestion;
     private ImageView iconeQuestion;
     private ConstraintLayout layoutQuestion;
-
-    private Question currentQuestion;
-    private int nbJoueur;
-
     private Typeface face;
 
     @Override
@@ -58,10 +53,13 @@ public class GameActivity extends AppCompatActivity {
 
         // Création de la liste des questions //
 
-        this.jeu.initCycleQuestion();
+        try {
+            this.jeu.initCycleQuestion();
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
 
         // Début du jeu //
-
 
         action();
         texteQuestion.setOnClickListener(new View.OnClickListener() {
@@ -85,18 +83,18 @@ public class GameActivity extends AppCompatActivity {
 
     public void action() {
         this.jeu.game();
-        this.currentQuestion = this.jeu.nextQuestion();
+        Question currentQuestion = this.jeu.nextQuestion();
 
-        this.typeQuestion.setText(this.currentQuestion.getStringType());
+        this.typeQuestion.setText(currentQuestion.getQuestionType().getCategory());
         this.typeQuestion.setTypeface(this.face);
         this.typeQuestion.setTextSize(30);
-        System.out.println("LE TYPE EST : " + this.currentQuestion.getStringType());
+        System.out.println("LE TYPE EST : " + currentQuestion.getQuestionType().getCategory());
 
-        String texte = this.currentQuestion.getFinalTxt();
+        String texte = currentQuestion.getQuestionStr();
         this.texteQuestion.setText(texte);
         this.texteQuestion.setTypeface(this.face);
         this.texteQuestion.setTextSize(24);
-        this.currentQuestion.printFinalTxt();
+        currentQuestion.printFinalTxt();
 
         this.numQuestion.setText(this.jeu.getIndexCurrQuestion());
         System.out.println("LE NUMERO EST : " + this.jeu.getIndexCurrQuestion());
@@ -104,18 +102,12 @@ public class GameActivity extends AppCompatActivity {
         this.numQuestion.setTypeface(this.face);
         this.numQuestion.setTextSize(30);
 
-        this.iconeQuestion.setImageResource(this.currentQuestion.getResIconeType());
-        this.layoutQuestion.setBackgroundResource(this.currentQuestion.getResBackgroundType());
+        this.iconeQuestion.setImageResource(currentQuestion.getQuestionType().getIcon());
+        this.layoutQuestion.setBackgroundResource(currentQuestion.getQuestionType().getIcon());
 
-        if (currentQuestion.getType() == 4) {
-
+        if (currentQuestion.getQuestionType().getType() == 4) {
             // Ajouter l'icone en bas + délire des compteur //
         }
-    }
-
-
-    public void remakeQuestion() {
-        jeu.createQuestCycle();
     }
 
     public void onWindowFocusChanged(boolean hasfocus){
